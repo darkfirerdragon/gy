@@ -1,0 +1,46 @@
+body{
+background-size: cover;
+}
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color: rgb(0, 255, 242);
+}
+.note{
+font-size: 15px;
+color: aqua;
+}
+.speed{
+float: left;
+}
+.volume{
+float: right;
+}
+.speed1{
+width: 200px;
+border-radius: 100px ;
+}
+.volume1{
+    width: 200px;
+    border-radius: 100px ;
+    }
+    .speed2{
+font-size: 23px;
+margin: 15px;
+color: aqua;
+    }
+    .volume2{
+        font-size: 23px;
+        margin: 15px;
+        color: aqua;
+            }
+.music_player{
+width: 130px;
+font-size: 20px;
+}
+canvas{
+    border: 5px dashed ;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px silver;
+    }
